@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00F700&width=435&lines=👋+Hey,+I’m+Arpit+Patel;I'm+a+Competitive+Programmer;Loves+Tech+Stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C71585&width=435&lines=👋+Hey,+I’m+Arpit+Patel;I'm+a+Competitive+Programmer;Loves+Tech+Stuff)](https://git.io/typing-svg)
 
 <!--
 ## 🏅 GitHub Trophies
@@ -23,16 +23,18 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-C71585?logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-C71585?logo=mysql&logoColor=white) 
+![C](https://img.shields.io/badge/C-C71585?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-C71585?logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-C71585?logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-C71585?logo=dart&logoColor=white)
+
 
 **Frameworks & Tools:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-C71585?logo=angular&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-C71585?logo=flutter&logoColor=white)
+
 
 **Core Concepts:**  
 📌 Data Structures & Algorithms  
@@ -55,15 +57,19 @@
 [![Land Classification](https://github-readme-stats.vercel.app/api/pin/?username=ArpitPatel21&repo=Land-Classification&theme=radical)](https://github.com/ArpitPatel21/Land-Classification)  
 
 
-## 📊 GitHub Stats  
-<!-- ![Arpit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitPatel21&show_icons=true&theme=radical) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpitPatel21&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitPatel21&layout=compact&theme=radical) 
+## 📊 GitHub Stats
+<div align="center">
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitPatel21&show_icons=true&theme=radical" width="500" />
+  <br><br>
+  <!-- Streak + Top Languages below, same size -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitPatel21&theme=radical" width="400" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitPatel21&layout=compact&theme=radical" width="245" height="150" />
+</div>
 
 
 ## 📈 Contribution Graph  
-[![Arpit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpitPatel21&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
+[![Arpit’s Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpitPatel21&bg_color=0d0d0d&color=C71585&line=FF1493&point=C71585&hide_border=true)](https://github.com/ArpitPatel21)
 
 ## 🎯 Fun Facts  
 - 💡 Love solving coding challenges & exploring new tech  
