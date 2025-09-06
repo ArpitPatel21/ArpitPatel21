@@ -12,6 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ArpitPatel21&label=Profile%20Views&color=0e75b6&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)  
 -->
+![snake gif](https://github.com/ArpitPatel21/ArpitPatel21/blob/output/github-snake-dark.svg)
 
 ## 💼 About Me  
 - 🚀 Working at **Tata Consultancy Services (TCS)**  
