@@ -14,7 +14,7 @@
 -->
 ![snake gif](https://github.com/ArpitPatel21/ArpitPatel21/blob/output/github-snake-dark.svg)
 
-## 💼 About Me | 🔗[Resume](./ResumeTCS.pdf)  
+## 💼 About Me | 🔗[Resume](./Resume.pdf)  
 - 🚀 Working at **Tata Consultancy Services (TCS)**  
 - 🏆 Hackathon Winner: **SISTEC INNOVATION HACKATHON - 2K23** & **ANALYTICA 4.0 - The Ultimate Case Study Competition, Jagran Lakecity University**  
 - 💡 Ex-Intern: **Flutter Developer @DRMZ Tech System Innovations Pvt. Ltd.**  
